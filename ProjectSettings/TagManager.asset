@@ -1,0 +1,86 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Pick Up
+  - Ground
+  - BouncyPlat
+  - Refresh
+  - MovingPlat
+  - Hurt
+  - Object
+  - RespawnTrigger
+  - PlayerHurt
+  - PlayerDead
+  - Slope
+  - PlayerSlide
+  - Wall
+  - EnemyWall
+  - BrownSeed
+  - HealthPoint
+  - PlayerTalking
+  - NPC
+  - CutSceneTrigger
+  - ActualWall
+  - Door
+  - StarShard
+  - CaveLightOn
+  - CaveLightOff
+  - Flower
+  - GolfBall
+  - GolfHole
+  - Snail
+  - DM
+  - Button
+  - Pear
+  - GoldenSeed
+  - Null
+  - Portal
+  - Checkpoint
+  - BossWall
+  - BossGround
+  - EnemyDestroyer
+  - RockDestroyer
+  - BossStunner
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - PostProcessing
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Above
+    uniqueID: 2242085129
+    locked: 0

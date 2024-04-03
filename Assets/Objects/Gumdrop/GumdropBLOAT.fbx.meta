@@ -1,0 +1,243 @@
+fileFormatVersion: 2
+guid: 56b06bff1d6ade24b8f76858b2a557e3
+ModelImporter:
+  serializedVersion: 26
+  internalIDToNameTable:
+  - first:
+      74: -623603649343465320
+    second: Gumdrop Bloat
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Gumdrop Bloat
+      takeName: Scene
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 165
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  copyAvatar: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton:
+    - name: Gumdrop(Clone)
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Cube
+      parentName: Gumdrop(Clone)
+      position: {x: -0, y: 1.1816037, z: -0.06627295}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: Cube.001
+      parentName: Gumdrop(Clone)
+      position: {x: -0.57471013, y: 1.1600397, z: 1.0453205}
+      rotation: {x: 0.50694066, y: 0.3615941, z: -0.48197672, w: 0.61640847}
+      scale: {x: 35.534363, y: 35.53436, z: 35.534363}
+    - name: Mouth
+      parentName: Gumdrop(Clone)
+      position: {x: 0.0015561365, y: 0.62187517, z: 2.199676}
+      rotation: {x: 0.50000006, y: -0.49999994, z: -0.5, w: -0.5}
+      scale: {x: 35.53436, y: 35.53436, z: 35.53436}
+    - name: Right Cheek
+      parentName: Gumdrop(Clone)
+      position: {x: -0.87606835, y: 0.6809609, z: 1.3164654}
+      rotation: {x: 0.7134345, y: -0.31044546, z: -0.5015668, w: -0.37824008}
+      scale: {x: 19.970556, y: 19.970556, z: 19.970554}
+    - name: Left Cheek
+      parentName: Gumdrop(Clone)
+      position: {x: 0.9765584, y: 0.72539353, z: 1.184594}
+      rotation: {x: 0.3971709, y: -0.2730749, z: 0.2715075, w: 0.83304805}
+      scale: {x: -19.970554, y: -19.970558, z: -19.970554}
+    - name: Eyes
+      parentName: Gumdrop(Clone)
+      position: {x: -0, y: 1.1816038, z: -0.06627295}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 231.49028, y: 231.4903, z: 231.4903}
+    - name: Bone 1
+      parentName: Eyes
+      position: {x: 1.7439685e-18, y: 0.0009829508, z: -0.0015465326}
+      rotation: {x: 0.98741776, y: -0.0000001508068, z: -0.0000009416712, w: 0.15813333}
+      scale: {x: 1, y: 0.99999994, z: 0.9999973}
+    - name: Cube.002
+      parentName: Gumdrop(Clone)
+      position: {x: 0.5149068, y: 1.164377, z: 1.0805831}
+      rotation: {x: -0.32764208, y: -0.5128206, z: 0.61961395, w: -0.49572617}
+      scale: {x: 35.53436, y: 35.53436, z: 35.53436}
+    - name: Body
+      parentName: Gumdrop(Clone)
+      position: {x: 4.037117e-16, y: 0.35158598, z: 0.008222825}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 155.7151, y: 155.7151, z: 155.7151}
+    - name: Bone
+      parentName: Body
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0.7071068, y: 0, z: 0, w: 0.7071067}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Bone.001
+      parentName: Bone
+      position: {x: -0, y: 0.01, z: 0}
+      rotation: {x: -0.12684144, y: -0.00000011824641, z: 0.000000015120673, w: 0.99192303}
+      scale: {x: 1, y: 0.99999994, z: 1}
+    - name: Bone.002
+      parentName: Bone.001
+      position: {x: 3.5527136e-17, y: 0.008709735, z: 1.4901161e-10}
+      rotation: {x: 0.09025246, y: -7.1054274e-15, z: -0.000000021517858, w: 0.995919}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Bone.003
+      parentName: Bone.002
+      position: {x: 7.105427e-17, y: 0.0062646675, z: 1.4901161e-10}
+      rotation: {x: -0.41293168, y: -1.525348e-15, z: 0.00000009845057, w: 0.910762}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Bone.004
+      parentName: Bone.003
+      position: {x: -0, y: 0.004695039, z: 5.9604643e-10}
+      rotation: {x: 0.2472962, y: -8.072201e-14, z: -0.000000058959984, w: 0.9689399}
+      scale: {x: 1, y: 0.99999994, z: 1}
+    - name: Bone.005
+      parentName: Bone.004
+      position: {x: 1.1910862e-16, y: 0.0033815247, z: 5.9604643e-10}
+      rotation: {x: -0.40090954, y: 8.013828e-15, z: 0.00000009558427, w: 0.91611767}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Bone.006
+      parentName: Bone.005
+      position: {x: 4.4104055e-16, y: 0.0026539469, z: -8.9406965e-10}
+      rotation: {x: -0.24993122, y: -0.19005223, z: -0.5746833, w: 0.75574714}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Bone.007
+      parentName: Bone.006
+      position: {x: 1.4713275e-15, y: 0.0030839683, z: 7.4505804e-11}
+      rotation: {x: 0.36677843, y: -0.15398465, z: -0.07817679, w: 0.91413933}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Bone.008
+      parentName: Bone.007
+      position: {x: -6.5571584e-16, y: 0.001955657, z: -0.0000000011920929}
+      rotation: {x: -0.42333347, y: -5.5648147e-14, z: 0.00000050465286, w: 0.9059739}
+      scale: {x: 1, y: 0.99999994, z: 0.99999994}
+    - name: Bone.009
+      parentName: Bone.008
+      position: {x: 8.801878e-16, y: 0.0017300989, z: 7.4505804e-11}
+      rotation: {x: -0.3271148, y: 6.056445e-14, z: 0.00000038995114, w: 0.9449846}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Bone.010
+      parentName: Bone.009
+      position: {x: -8.149149e-16, y: 0.0019647202, z: 8.9406965e-10}
+      rotation: {x: 0.5574995, y: -0.0027188305, z: -0.0028136421, w: 0.83016807}
+      scale: {x: 1, y: 1, z: 0.99999994}
+    - name: Bone.011
+      parentName: Bone.010
+      position: {x: 1.693806e-15, y: 0.0020669417, z: 5.9604643e-10}
+      rotation: {x: -0.45393378, y: -2.661276e-13, z: 0.00000054113116, w: 0.89103544}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Bone.012
+      parentName: Bone.011
+      position: {x: 2.4673297e-15, y: 0.0018039888, z: -0.0000000011920929}
+      rotation: {x: -0.36757517, y: -1.876844e-13, z: 0.0000004381838, w: 0.9299938}
+      scale: {x: 1, y: 1.0000001, z: 1}
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {fileID: 9000000, guid: 1d67c5d8efb8818408e09732ee998e28,
+    type: 3}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
